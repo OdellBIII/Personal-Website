@@ -6,11 +6,26 @@ export default function Home() {
       <header> Odell Blackmon, III</header>
       <h1>Software Engineer | Tech Consultant | Generally Curious </h1>
       <div>
-        <a href='https://www.instagram.com/od.3.ll/'>Instagram</a>
-        <a href='https://twitter.com/nodellodell'>Twitter</a>
-        <a href='https://www.linkedin.com/in/odell-blackmon-iii/'>LinkedIn</a>
+        <a href='https://www.instagram.com/od.3.ll/'>
+          <img src='instagram-icon.jpeg'></img>
+        </a>
+        <a href='https://twitter.com/nodellodell'>
+          <img src="twitter-icon.png"></img>
+        </a>
+        <a href='https://www.linkedin.com/in/odell-blackmon-iii/'>
+          <img src='linkedin-icon.png'></img>
+        </a>
         <a href='https://github.com/OdellBIII'>Github</a>
         <a href='https://substack.com/profile/7430718-odell-blackmon-iii?utm_source=substack_profile'>Substack</a>
+      </div>
+      <div>
+        <ul>
+          <li>
+            <a href='https://odellblackmoniii.substack.com/p/urbit-will-never-become-a-household?utm_source=profile&utm_medium=reader2'>
+              Thoughts on Urbit
+            </a>
+          </li>
+        </ul>
       </div>
     </main>
   )
