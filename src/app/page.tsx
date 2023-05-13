@@ -26,7 +26,7 @@ export default function Home() {
         </div>
         <div>
           <ul>
-            <li>
+            <li className='links'>
               <a href='https://odellblackmoniii.substack.com/p/urbit-will-never-become-a-household?utm_source=profile&utm_medium=reader2'>
                 Thoughts on Urbit
               </a>

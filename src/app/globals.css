@@ -65,10 +65,15 @@ h1 {
   font-size: 15px;
 }
 
+.links {
+
+  text-decoration: underline;
+}
+
 .social-container {
 
   display: flex;
-  background-color: black;
+  background-color: none;
   border-radius: 10px;
   margin-left: 20%;
   margin-right: 20%;
